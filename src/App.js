@@ -1,12 +1,13 @@
 import React from 'react';
 import './App.css';
+import logo from './images/pasta_logo.png';
 
 function App() {
   return (
     <div className="App">
     <header className="App-header">
      <div className='Image-wrapper'>
-      pasta
+      <img className='Header-image' src={logo} alt='logo'/>
      </div>
     </header>
     <div className='Hero'>
