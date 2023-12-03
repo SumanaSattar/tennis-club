@@ -1,38 +1,32 @@
-.App {
-  text-align: center;
+.App-header{
+  background-color: #171d47;
+  height:100px
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Image-wrapper{
+display:flex;
+justify-content: center;
+padding-top:20px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.Header-image{
+  border:1px solid #f2a95d;
+  width:100px;
+  height:auto;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+.Hero{
+  background-color: #202861;
+  height:90vh;
+  color:white;
+  margin-top:-10px;
+  display:flex;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  flex-direction: column;
+  > h1 {
+     padding-top: 30px;
   }
-  to {
-    transform: rotate(360deg);
-  }
+  
 }
+/* orange color : #f2a95d
+blue color:#171d47
+red color:#c62a3a
+
+https://preview.colorlib.com/#sportsteam */
