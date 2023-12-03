@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tennis-club/static/css/main.0d405dfe.css",
+    "main.js": "/tennis-club/static/js/main.0e342bec.js",
+    "static/js/787.b99db242.chunk.js": "/tennis-club/static/js/787.b99db242.chunk.js",
+    "static/media/pasta_logo.png": "/tennis-club/static/media/pasta_logo.fccc4d86bcba108ecef5.png",
+    "service-worker.js": "/tennis-club/service-worker.js",
+    "index.html": "/tennis-club/index.html",
+    "main.0d405dfe.css.map": "/tennis-club/static/css/main.0d405dfe.css.map",
+    "main.0e342bec.js.map": "/tennis-club/static/js/main.0e342bec.js.map",
+    "787.b99db242.chunk.js.map": "/tennis-club/static/js/787.b99db242.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d405dfe.css",
+    "static/js/main.0e342bec.js"
+  ]
+}
